@@ -1,10 +1,9 @@
-# 量潮云计算行业研究
+# QuantTide Research of Cloud Computing Economics
 
+## Contributors
 
-## 贡献者
+- QuantTide: [@Guo-Zhang](https://github.com/Guo-Zhang)
 
-- 量潮成员：[@Guo-Zhang](https://github.com/Guo-Zhang)
-
-## 协议和许可证
+## License
 
 CC BY-SA 4.0
