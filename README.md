@@ -1,1 +1,1 @@
-# 量潮经济学科研
+# QuantTide Research of Open Source Economics
