@@ -3,4 +3,5 @@ root: index.md
 parts:
   - caption: Proposals
     chapters:
+      - file: proposals/open_source_as_public_goods.md
       - file: proposals/measuring_social_welfare.md
