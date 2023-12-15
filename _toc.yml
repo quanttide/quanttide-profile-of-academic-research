@@ -4,6 +4,11 @@ parts:
   - caption: Literatures
     chapters:
       - file: literatures/README.md
+  - caption:
+    chapters:
+      - file: topics/equilibriums.md
+      - file: topics/institutions.md
+      - file: topics/strategies.md
   - caption: Proposals
     chapters:
       - file: proposals/open_source_as_public_goods.md
