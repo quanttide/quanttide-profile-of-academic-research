@@ -1,1 +1,1 @@
-# 量潮示例文档项目
+# QuantTide Research of Economic Models
