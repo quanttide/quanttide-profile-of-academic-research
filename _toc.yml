@@ -7,7 +7,7 @@ parts:
   - caption: Literatures
     chapters:
       - file: literatures/README.md
-  - caption:
+  - caption: Topics
     chapters:
       - file: topics/equilibriums.md
       - file: topics/institutions.md
