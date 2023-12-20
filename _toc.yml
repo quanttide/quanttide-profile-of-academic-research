@@ -15,5 +15,4 @@ parts:
   - caption: Proposals
     chapters:
       - file: proposals/open_source_as_public_goods.md
-      - file: proposals/monopolization.md
-      - file: proposals/measuring_social_welfare.md
+      - file: proposals/voluntary_organizations.md

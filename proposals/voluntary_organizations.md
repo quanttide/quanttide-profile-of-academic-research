@@ -1,4 +1,6 @@
-# Measuring Social Welfare of Open Source Communities
+# Open Source Communities as Voluntary Organizations
+
+Measuring social welfare of open source communities with the perspective of voluntary organizations.
 
 ## 指标
 
