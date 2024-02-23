@@ -2,6 +2,12 @@
 
 ## Literatures
 
+### Digital Public Goods
+
+- [Digital Public Goods](https://digitalpublicgoods.net/standard/)
+- [OSI approved licenses](https://opensource.org/licenses/)
+- [Creative Common Licenses](https://creativecommons.org/licenses/)
+
 ### Economics of Open Source
 
 ### Economics of Voluntary Organization

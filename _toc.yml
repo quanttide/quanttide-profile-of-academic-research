@@ -4,9 +4,6 @@ parts:
   - caption: Literatures
     chapters:
       - file: literatures/README.md
-  - caption: Facts
-  chapters:
-    - file: facts/README.md
   - caption: Proposals
     chapters:
       - file: proposals/equilibriums.md
