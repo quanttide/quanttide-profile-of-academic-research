@@ -9,3 +9,4 @@ parts:
       - file: proposals/equilibriums.md
       - file: proposals/strategies.md
       - file: proposals/institutions.md
+      - file: proposals/contracts.md
