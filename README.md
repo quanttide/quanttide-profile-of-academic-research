@@ -1,4 +1,4 @@
-# QuantTide Research of Digitial Economics
+# QuantTide Research of Data Pricing
 
 ## Workflow
 
