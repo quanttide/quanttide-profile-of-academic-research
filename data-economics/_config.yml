@@ -1,0 +1,9 @@
+# https://jupyterbook.org/en/stable/customize/config.html
+name: quanttide-research-of-digital-economics
+title: QuantTide Research of Digital Economics
+authors: 
+  - Guo Zhang@QuantTide
+  - Zhongchen Fan
+description: QuantTide Research of Digital Economics
+# Jupyter Book Config
+only_build_toc_files: true
