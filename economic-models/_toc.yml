@@ -1,0 +1,9 @@
+format: jb-book
+root: index.md
+parts:
+  - caption: Topics
+    chapters:
+      - file: topics/quantecon.md
+  - caption: Proposals
+    chapters:
+      - file: proposals/ddd.md
