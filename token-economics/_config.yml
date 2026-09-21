@@ -1,0 +1,7 @@
+# https://jupyterbook.org/en/stable/customize/config.html
+name: quanttide-research-of-token-economics
+title: 量潮代币经济学研究
+author: 量潮科技
+description: 量潮代币经济学研究
+# Jupyter Book Config
+only_build_toc_files: true

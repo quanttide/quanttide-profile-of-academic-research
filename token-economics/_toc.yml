@@ -1,0 +1,6 @@
+format: jb-book
+root: index.md
+parts:
+  - caption: Proposals
+    chapters:
+      - file: proposals/token_issuance_with_digital_public_goods.md
