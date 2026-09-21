@@ -17,7 +17,7 @@
 ## 已知状态
 
 - 各专题根级的 `_config.yml`、`_toc.yml`、`index.md` 与 `.github/workflows/jupyterbook-publish.yml` 是原书稿的工程配置；嵌套进本仓后不再生效。要恢复发布，需重排为一本书，或改为按目录触发的工作流。
-- `open-source-economics/literatures/` 下有一份 PDF 走 Git LFS，其对象在远端已缺失（404），仓内只保留 LFS 指针文本；本地推送需 `git config lfs.allowincompletepush true` 放行，或移除该目录的 `.gitattributes` 中的 LFS 过滤。
+- `open-source-economics/literatures/` 原有四份 PDF 走 Git LFS，其对象在源仓远端已缺失（404）、无法恢复；这四份文件未并入本仓（坏指针会让仓库无法推送），文件名、大小与 sha256 记在 `open-source-economics/literatures/README.md`，其对应的 Git LFS 配置与历史一并剥离。
 
 ## 许可
 
