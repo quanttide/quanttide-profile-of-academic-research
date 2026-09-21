@@ -1,0 +1,12 @@
+format: jb-book
+root: index.md
+parts:
+  - caption: Literatures
+    chapters:
+      - file: literatures/README.md
+  - caption: Proposals
+    chapters:
+      - file: proposals/equilibriums.md
+      - file: proposals/strategies.md
+      - file: proposals/institutions.md
+      - file: proposals/contracts.md
