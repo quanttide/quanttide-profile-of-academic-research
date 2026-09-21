@@ -28,3 +28,12 @@ Harvard Business School:
 ### Field Experiments
 
 - [Join List](https://voices.uchicago.edu/jlist/)
+
+## 缺失文件
+
+以下 PDF 原以 Git LFS 存放，其对象在 `quanttide-research-of-open-source-economics` 远端已缺失（404），无法恢复；并入本仓时移除指针文件，清单留档：
+
+- `Commons and Growth_ The Essential Role of Open Commons in Market.pdf` — 3895506 字节，sha256:7d86af7b21527e1d5f715c1c8c23383f57889303f7b8bd86783484a1a0ebd015
+- `Dynamics of Open Source Contributors.pdf` — 50382 字节，sha256:e31d16e968e13b4a5130b9684412f0a845f04de348cdd20b5f6145d2853a388f
+- `Economics Of Open Source.pdf` — 3656460 字节，sha256:3a798490d524fca6a4547b4e40a16484e940e535c553fb637018d8725ebd99bc
+- `The Economics of Technology Sharing_ Open Source and Beyond.pdf` — 274288 字节，sha256:7328d1d4d632ca0ae0ca731ddec53c3964adaf6ae16205c9eb534e5c30b7b777
